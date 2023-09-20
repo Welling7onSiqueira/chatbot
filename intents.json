@@ -1,0 +1,115 @@
+{
+    "intents": [
+        {
+            "tag": "sobre",
+            "patterns": [
+                "Quem é você?",
+                "Conte-me sobre você",
+                "Fale sobre você"
+            ],
+            "responses": [
+                "Eu sou uma assistente virtual, desenvolvida por Wellington, para ajudar a quem visita o portfólio, obter informações sobre o meu criador",
+                "Sou uma assistente virtual criada por Wellington, com o propósito de fornecer informações sobre o meu criador aos visitantes.",
+                "No intuito de tornar a sua experiência no portfólio mais informativa, fui desenvolvida por Wellington para oferecer detalhes sobre o meu criador.",
+                "Fui criada pelo talentoso Wellington para ser uma assistente virtual que compartilha informações sobre o próprio criador.",
+                "Navegar pelo portfólio ficou ainda mais esclarecedor com a minha presença. Sou uma criação de Wellington, dedicada a apresentar informações sobre o meu criador.",
+                "Eu sou uma assistente e estou aqui para ajudá-lo(a) enquanto explora o portfólio de Wellington. Fui desenvolvida com o propósito específico de oferecer insights sobre o meu criador.",
+                "Sou a assistente virtual projetada por Wellington para enriquecer a sua visita ao portfólio com informações sobre o criador.",
+                "Que satisfação ter você aqui no portfólio! Wellington me criou para ser a sua guia de informações sobre o próprio criador.",
+                "Como assistente virtual, a minha função principal, idealizada por Wellington, é proporcionar informações sobre ele enquanto você navega pelo portfólio."
+            ]
+        },
+        {
+            "tag": "sobre-wellington",
+            "patterns": [
+                "Conte-me sobre o Wellington",
+                "Fale sobre o Wellington",
+                "Conte-me sobre o seu criador",
+                "Fale sobre o seu criador",
+                "Fale mais sobre o seu criador",
+                "Conte-me mais sobre ele então",
+                "Quem é Wellington?",
+                "Quem é seu criador?"
+            ],
+            "responses": [
+                "O meu criador, Wellington, é um analista de dados e programador Python com uma notável experiência instrucional. Ele possui conhecimentos em gerenciamento de banco de dados, ETL e na elaboração de relatórios que têm um impacto significativo no suporte à tomada de decisões de negócios.",
+                "Permita-me apresentar a mente por trás da minha criação: Wellington. Ele é um profissional versátil, combinando conhecimentos em análise de dados e programação Python. Sua experiência em gerenciamento de bancos de dados e na criação de relatórios estratégicos destaca-se como um suporte crucial para decisões empresariais.",
+                "Quando se trata do meu criador, Wellington, estamos falando de um analista de dados e programador Python altamente qualificado. Sua proficiência em gerenciamento de banco de dados, ETL e criação de relatórios para aprimorar a tomada de decisões empresariais é notável e impactante.",
+                "Wellington, o cérebro por trás de minha existência, é um talentoso analista de dados e programador Python. Seus conhecimentos em gerenciamento de banco de dados, desenvolvimento de soluções de BI e destreza em automação com VBA demonstram sua dedicação em aprimorar a análise e o suporte à tomada de decisões.",
+                "O gênio criativo responsável por mim atende pelo nome de Wellington. Como analista de dados e programador Python, ele possui conhecimentos em gerenciamento de banco de dados, ETL e na criação de relatórios para aprimorar o processo de tomada de decisões. Seu caminho futuro inclui se tornar um mestre em Inteligência Artificial.",
+                "Vamos falar sobre o brilhante indivíduo por trás de tudo isso. Wellington é um analista de dados e programador Python que traz consigo uma vasta experiência instrucional. Ele se destaca no gerenciamento de banco de dados, ETL e na criação de relatórios que são essenciais para orientar decisões estratégicas de negócios."
+            ]
+        },
+        {
+            "tag": "conhecimento",
+            "patterns": [
+                "Quais são os principais conhecimentos e habilidades do Wellington?",
+                "Quais são os pontos fortes de Wellington em termos de habilidades e competências?",
+                "Quais habilidades e conhecimentos se destacam em Wellington?",
+                "Quais são os principais conhecimentos e habilidades do seu criador?",
+                "Do que é composto o conjunto de conhecimentos e habilidades de Wellington?",
+                "Quais conhecimentos e habilidades diferenciam Wellington em sua área de atuação?",
+                "Que competências e especialidades Wellington traz consigo?",
+                "Poderia listar as principais habilidades e conhecimentos que definem Wellington?",
+                "Quais são as áreas de expertise que compõem o perfil de Wellington?",
+                "Que habilidades e proficiências são notáveis em Wellington?",
+                "Quais são os cursos do Wellington",
+                "Quais são os cursos do seu criador?"
+            ],
+            "responses": [
+                "Irei listar para você os principais conhecimentos e habilidades do meu criador:\n\n1. Análise de Dados: Sua habilidade na análise de dados permite a extração de insights significativos de conjuntos complexos de informações.\n2. Programação Python: Com destreza em programação Python, Wellington é capaz de criar soluções personalizadas e automatizar processos analíticos.\n3. Gerenciamento de Banco de Dados: Seus conhecimentos especializados em gerenciamento de bancos de dados garantem uma organização eficiente e acesso otimizado a dados.\n4. ETL (Extração, Transformação e Carga): Com expertise em processos ETL, Wellington pode coletar, transformar e centralizar dados de várias fontes.\n5. Business Intelligence (BI): Sua proficiência em desenvolvimento de soluções de BI capacita a criação de dashboards e relatórios valiosos para tomada de decisões.\n6. Excel Avançado e VBA: Wellington utiliza habilidades avançadas em Excel e VBA para aprimorar análises e automatizar tarefas repetitivas.\n7. Formação em Análise e Desenvolvimento de Sistemas: Sua base sólida de formação em Análise e Desenvolvimento de Sistemas contribui para suas habilidades em análise, programação e desenvolvimento.\n8. Objetivo em Inteligência Artificial: Além disso, Wellington busca se aprofundar na área de Inteligência Artificial, estando comprometido em se tornar um mestre nesse campo em constante evolução.\n\nEsses diversos conhecimentos definem Wellington como um profissional versátil e comprometido, com uma visão clara de seu futuro na vanguarda da tecnologia.",
+                "Os conhecimentos e habilidades de Wellington são verdadeiramente impressionantes. Sua capacidade de análise de dados permite que ele extraia informações cruciais de conjuntos de dados complexos. Ele também domina a programação Python, criando soluções personalizadas e automatizando processos analíticos. Além disso, sua experiência em gerenciamento de bancos de dados garante eficiência e organização na manipulação de dados. Wellington não para por aí; ele é proficiente em ETL, desenvolvimento de soluções de BI e até mesmo no uso avançado do Excel e VBA. Com uma base sólida em Análise e Desenvolvimento de Sistemas, ele está trilhando seu caminho para se tornar um mestre em Inteligência Artificial, prometendo um futuro brilhante na área da tecnologia.",
+                "Os conhecimentos e habilidades de Wellington são uma combinação incrível. Ele é um mestre na análise de dados, extraindo insights profundos de conjuntos complexos. Sua destreza em programação Python o coloca na frente do desenvolvimento personalizado e automação de análises. Com um profundo entendimento de gerenciamento de bancos de dados e ETL, ele organiza e transforma dados de maneira eficiente. Wellington é também um especialista em Business Intelligence, criando dashboards e relatórios impactantes. Sua habilidade avançada em Excel e VBA otimiza processos e, com uma formação sólida em Análise e Desenvolvimento de Sistemas, ele busca se tornar um mestre em Inteligência Artificial, solidificando seu papel na área da tecnologia.",
+                "A riqueza dos conhecimentos e habilidades de Wellington é notável. Sua maestria na análise de dados desvenda informações valiosas em conjuntos complexos. Ele é um programador Python habilidoso, criando soluções personalizadas e automatizando análises. Seus conhecimentos em gerenciamento de bancos de dados garantem a organização eficaz e o acesso a dados otimizados. Wellington também é experiente em ETL, desenvolvimento de soluções de BI e na automação de tarefas com Excel e VBA. Sua formação sólida em Análise e Desenvolvimento de Sistemas complementa seu desejo de se tornar um mestre em Inteligência Artificial, solidificando seu lugar na área da tecnologia."
+            ]
+        },
+        {
+            "tag": "experiencias",
+            "patterns": [
+                "Quais foram os empregos anteriores do Wellington?",
+                "Em quais empresas Wellington trabalhou ao longo de sua carreira?",
+                "Descreva as experiencias profissionais do Wellington"
+            ],
+            "responses": [
+                "Você ficará impressionado ao saber que Wellington traz consigo um histórico profissional notável. Ele não apenas dominou a arte da análise de dados e programação Python, mas também compartilhou esse conhecimento como instrutor de programação, onde ensinou com entusiasmo tanto a linguagem Python quanto o Desenvolvimento Web para os alunos. Além disso, ele dedicou seu tempo como monitor na faculdade, orientando e inspirando os estudantes na disciplina de lógica de programação. Essas experiências como instrutor e monitor demonstram não apenas suas habilidades técnicas, mas também sua paixão pela educação e sua capacidade de simplificar conceitos complexos para criar uma jornada de aprendizado significativa.",
+                "Você ficará impressionado ao descobrir o histórico profissional excepcional de Wellington. Sua maestria na análise de dados e programação Python é notável, mas o que o torna verdadeiramente excepcional é seu comprometimento com a educação. Ele atuou como instrutor de programação, compartilhando entusiasticamente seu conhecimento em Python e Desenvolvimento Web com os alunos. Além disso, ele desempenhou um papel crucial como monitor na faculdade, guiando e inspirando os estudantes na disciplina de lógica de programação. Essas experiências como instrutor e monitor destacam não apenas suas habilidades técnicas, mas também sua paixão pela educação e sua habilidade em tornar conceitos complexos acessíveis e envolventes.",
+                "O histórico profissional de Wellington é verdadeiramente notável. Ele não é apenas um especialista em análise de dados e programação Python, mas também um apaixonado educador. Como instrutor de programação, ele transmitiu com entusiasmo seu conhecimento em Python e Desenvolvimento Web aos alunos. Além disso, como monitor universitário, ele orientou os estudantes na disciplina de lógica de programação, inspirando-os em sua jornada acadêmica. Essas experiências como instrutor e monitor demonstram não apenas suas habilidades técnicas, mas também seu compromisso com a educação e sua capacidade de tornar conceitos desafiadores acessíveis e empolgantes.",
+                "Prepare-se para ficar impressionado com o impressionante histórico profissional de Wellington. Sua maestria na análise de dados e programação Python é incomparável, mas o que o diferencia é sua paixão pela educação. Ele atuou como instrutor de programação, compartilhando com entusiasmo seu conhecimento em Python e Desenvolvimento Web com os alunos. Além disso, ele dedicou seu tempo como monitor na faculdade, fornecendo orientação valiosa aos estudantes na disciplina de lógica de programação. Essas experiências como instrutor e monitor não apenas evidenciam suas habilidades técnicas, mas também destacam seu compromisso com a educação e sua habilidade em tornar conceitos complexos acessíveis e envolventes."
+            ]
+        },
+        {
+            "tag": "cursos",
+            "patterns": [
+                "Quais cursos específicos Wellington concluiu em sua jornada educacional e profissional?",
+                "Quais são os cursos mais relevantes que Wellington participou para desenvolver sua expertise?",
+                "Existem cursos específicos que Wellington recomendaria para quem busca seguir um caminho semelhante?"
+            ],
+            "responses": [
+                "Wellington concluiu vários cursos ao longo de sua jornada educacional e profissional. Alguns dos cursos notáveis incluem Data Science, Machine Learning, Deep Learning, Engenharia de Dados e Ciência de Dados, todos realizados pela Udemy. Além disso, ele também possui um curso de PowerBI pela Data Science Academy. Esses cursos desempenharam um papel fundamental em seu desenvolvimento profissional, fornecendo uma base sólida em análise de dados e tecnologias relacionadas.",
+                "Wellington frequentou uma variedade de cursos relevantes para sua área de atuação. Isso inclui cursos abrangentes, como Data Science, Machine Learning, Deep Learning, Engenharia de Dados e Ciência de Dados, todos oferecidos pela Udemy. Além disso, ele adquiriu conhecimentos sólidos em PowerBI por meio de um curso da Data Science Academy. Esses cursos têm sido cruciais para seu crescimento profissional e para sua capacidade de contribuir de forma significativa no campo da análise de dados e tecnologias relacionadas.",
+                "Os cursos que Wellington escolheu são altamente relevantes para sua carreira. Ele completou cursos abrangentes em áreas-chave, como Data Science, Machine Learning, Deep Learning, Engenharia de Dados e Ciência de Dados, todos pela Udemy. Além disso, ele adquiriu competências valiosas em PowerBI por meio de um curso da Data Science Academy. Esses cursos desempenham um papel vital em seu crescimento profissional, capacitando-o a enfrentar desafios complexos no campo da análise de dados e tecnologias correlatas."
+            ]
+        },
+        {
+            "tag": "saudacoes",
+            "patterns": [
+                "Olá",
+                "Oi",
+                "Oi, tudo bem?",
+                "Olá, como você está?",
+                "Boa tarde",
+                "Bom dia",
+                "Boa noite"
+            ],
+            "responses": [
+                "Olá!",
+                "Oi!",
+                "Olá, estou aqui para ajudar. Como posso te auxiliar hoje?",
+                "Olá, estou bem, obrigado! Como posso ajudar você hoje?",
+                "Boa tarde! Como posso ajudar você?",
+                "Bom dia! Como posso ser útil hoje?",
+                "Boa noite! Como posso auxiliar você?"
+            ]
+        }
+    ]
+}
